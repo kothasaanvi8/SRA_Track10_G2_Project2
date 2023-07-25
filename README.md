@@ -5,3 +5,5 @@ We sought to create a neural network with similar accuracy but which utilizes fe
 Dataset after parsing: https://drive.google.com/drive/folders/1D_CoQd3Hi-owXMXmtN0LS2WvnIMjuBkl?usp=sharing
 
 CSV after parsing: https://drive.google.com/file/d/1YSJQ0DdNCeYUUDKjuFzFxtyfXLfWTroU/view?usp=sharing
+
+Original Dataset and CSV: https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
